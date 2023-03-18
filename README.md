@@ -1,6 +1,7 @@
 # IMT Haktoo S1
 
-**Projeto Integrador Insituto Mauá de Tecnologia**
+**Projeto Intedisciplinar do primeiro semestre no Insituto Mauá de Tecnologia.**<br>
+**Criado 100% em Java e MySql como Banco de Dados**
 
 ## Login
 ![image](https://user-images.githubusercontent.com/93688391/226079474-2924c2ae-38e4-4bc3-9df3-71f849fce9ee.png)
